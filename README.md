@@ -1,2 +1,2 @@
 # Poetry
-Files for generating LTSM poetry
+Files for generating poetry with an LSTM neural network
